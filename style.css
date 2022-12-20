@@ -1,0 +1,47 @@
+body {
+    color: #000;
+    box-sizing: border-box;
+    background-color: #FFDF2B;
+    padding: 48px;
+    text-align: center;
+  }
+  
+  p {
+    font-size: 6em;
+    font-weight: bolder;
+    color: black;
+  }
+
+
+  
+#container {
+    margin: 50px;
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    border: dashed black 1px;
+    
+}
+
+.grid{
+  
+  border: dashed rgb(226, 226, 226) 1px;
+}
+
+#navbar{
+display: flex;
+
+
+}
+
+
+
+
+
+
+
+
+
